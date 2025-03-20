@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Thu, 20 Mar 2025 23:44:33 +0800</lastBuildDate><atom:link href="https://bittercolour.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 21 Mar 2025 00:22:30 +0800</lastBuildDate><atom:link href="https://bittercolour.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Newnew</title>
+        <link>https://bittercolour.github.io/p/newnew/</link>
+        <pubDate>Fri, 21 Mar 2025 00:22:30 +0800</pubDate>
+        
+        <guid>https://bittercolour.github.io/p/newnew/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Newnewnew</title>
         <link>https://bittercolour.github.io/p/newnewnew/</link>
         <pubDate>Thu, 20 Mar 2025 23:44:33 +0800</pubDate>
